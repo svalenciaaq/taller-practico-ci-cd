@@ -12,7 +12,7 @@
     <artifactId>protobootapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>protobootapp</name>
-    <description>A simple demo app for Spring Boot.</description>
+    <description>A simple demo app for Spring Boo.</description>
     
     <properties>
         <java.version>11</java.version>
